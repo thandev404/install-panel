@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/maskhandev/install-panel/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/thandev404/install-panel/main/install.sh)
 ```
 
 ## Fitur Tools :
