@@ -1,4 +1,4 @@
-# :bird: install-thema-panel
+# install-thema-panel
 
 
 
