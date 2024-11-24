@@ -67,7 +67,7 @@ check_token() {
   else
     echo -e "${GREEN}Token Salah! Beli Kode Token Di Than Developer${NC}"
     echo -e "${YELLOW}WhatsApp Utama: +6285161961107${NC}"
-    echo -e "${YELLOW}WHATSAPP : +6283141471040${NC}"
+    echo -e "${YELLOW}WHATSAPP : +6285161961107${NC}"
     echo -e "${YELLOW}HARGA TOKEN : 25K FREE UPDATE JIKA ADA TOKEN BARU${NC}"
     echo -e "${YELLOW}© Than Developer${NC}"
     exit 1
@@ -455,9 +455,9 @@ while true; do
   echo -e "${RED}',gg       ,ggg.      'ggg:                               ${NC}"
   echo -e "${RED}'ggg      ,gg'''  .    ggg       Auto Installer Maskhandev   ${NC}"
   echo -e "${RED}gggg      gg     ,     ggg      ------------------------  ${NC}"
-  echo -e "${RED}ggg:     gg.     -   ,ggg       • WhatsApp : Maskhandev      ${NC}"
-  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : Maskhandev  ${NC}"
-  echo -e "${RED} ggg.    '.'''ggggggp           • Support by Maskhandev  ${NC}"
+  echo -e "${RED}ggg:     gg.     -   ,ggg       • WhatsApp : 6285161961107     ${NC}"
+  echo -e "${RED} ggg:     ggg._    _,ggg        • Creadit  : ThanDev  ${NC}"
+  echo -e "${RED} ggg.    '.'''ggggggp           • Support by ThanDev  ${NC}"
   echo -e "${RED}  'ggg    '-.__                                           ${NC}"
   echo -e "${RED}    ggg                                                   ${NC}"
   echo -e "${RED}      ggg                                                 ${NC}"
